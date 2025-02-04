@@ -25,7 +25,7 @@ interface authProps {
 
 const TOKEN_KEY = "jwt";
 const REF_TOKEN_KEY = "refjwt";
-export const api_url = "https://chalao.pythonanywhere.com";
+export const api_url = "https://zarbieK9.pythonanywhere.com";
 
 const AuthContext = createContext<authProps>({});
 
